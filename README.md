@@ -5,7 +5,9 @@ this analysis done for the sake of using more data wrangling techniques so the o
 [Soruce of dataset](https://catalog.data.gov/organization/city-of-los-angeles)
 ---
 The questions of the analysis:
+
 Q1: is the crime rate more after or before covid 19?
+
 Q2: what is the most sex are being targeted?
 
 ---
